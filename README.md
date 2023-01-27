@@ -1,4 +1,20 @@
-[![Build Status](https://travis-ci.org/google/graphd.svg?branch=master)](https://travis-ci.org/google/graphd)
+Original Repository   
+https://github.com/googlearchive/graphd    
+
+2 мая 2015 года база была закрыта[3], вместо нее Google предлагает использовать Knowledge Graph.    
+https://ru.wikipedia.org/wiki/Freebase.       
+
+Knowledge Graph (рус. Сеть знаний; дословно Граф знаний) — семантическая технология и база знаний,    
+используемая Google для повышения качества своей поисковой системы с семантическо-поисковой информацией,   
+собранной из различных источников. Граф знаний был добавлен в поисковую систему Google в 2012 году, сначала в США,    
+о чём было объявлено 16 мая 2012 года[1].   
+
+Граф знаний предоставляет структурированную и подробную информацию о теме в дополнение к списку ссылок на другие сайты.    
+Цель состоит в том, что пользователи смогут использовать    
+эту информацию для решения своих запросов без необходимости перехода на другие сайты и сбора информации самостоятельно[2][3].   
+
+
+![Build Status](https://travis-ci.org/google/graphd.svg?branch=master)](https://travis-ci.org/google/graphd)
 
 # Graphd, the Metaweb Graph Repository
 
